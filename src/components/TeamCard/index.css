@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.card-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid #ffffff;
+  background-color: #475569;
+  border-radius: 5px;
+  padding: 30px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 350px;
+  height: 150px;
+  cursor: pointer;
+}
+
+.team-logo {
+  height: 100px;
+  width: 100px;
+}
+
+.team-name {
+  font-family: Bree Serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #fff;
+}

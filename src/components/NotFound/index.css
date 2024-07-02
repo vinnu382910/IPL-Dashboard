@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.main-heading {
+  color: #fff;
+  font-family: Bree Serif;
+  font-weight: bold;
+  font-size: 32px;
+  margin-left: 20px;
+}
+
+.cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  height: 120vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
